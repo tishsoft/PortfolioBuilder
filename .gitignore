@@ -1,0 +1,48 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+
+pids
+logs
+results
+tmp
+coverage
+
+# Git
+.git
+
+# API keys and private stuff
+.env
+secrets
+localhost-ssl
+config
+dbdata
+.ssh
+
+# Dependency directory
+node_modules
+bower_components
+package-lock.json
+.map
+
+# Builds
+build
+browser.js
+*.map
+*.bundle.js
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+.dockerignore
